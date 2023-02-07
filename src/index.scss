@@ -1,0 +1,20 @@
+@import './scss/index.scss';
+
+/* body {
+  background-color: $background-grey-light;
+}
+ */
+
+.ui.form {
+  .btn-submit {
+    width: 100%;
+    background-color: $action;
+    color: $font-light;
+  }
+
+  .submit-error {
+    color: $danger;
+    text-align: center;
+    margin: 20px 0 0 0;
+  }
+}

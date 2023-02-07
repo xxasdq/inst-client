@@ -1,0 +1,10 @@
+@import '../../../scss/index.scss';
+
+.modal-basic {
+  border-radius: 16px !important;
+  overflow: hidden;
+
+  .header {
+    text-align: center;
+  }
+}
